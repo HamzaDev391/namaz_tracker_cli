@@ -1,4 +1,4 @@
-# 🕌 Namaz Tracker CLI (Dart)
+# 🕌 Prayer(Salah) Tracker CLI App(Dart)
 
 A simple and efficient **command-line app** built in **Dart** to help users **log, view, and manage their Salah (Namaz)**. Supports multiple users, date filtering, and status summaries — all through a clean text-based interface.
 
@@ -54,24 +54,26 @@ namaz_tracker_cli/
 ├── users.txt              # Registered users (auto-managed)
 ├── namaz_log.txt          # Salah logs (auto-managed)
 └── .gitignore             # Hides logs from version control
+
 🔐 Privacy Note
+
 This CLI app uses local text files to store logs. The .gitignore ensures that namaz_log.txt and users.txt are not pushed to GitHub, preserving privacy.
 
 🌟 Ideal For
 
 Dart portfolio projects
-
 Fiverr/Upwork CLI tool samples
-
 Practicing file I/O, async, and clean modular code in Dart
-
 Daily personal Salah tracking
 
 📮 Contribute or Connect
+
 Want to improve this? Add backup/export options?
+
 Feel free to fork or suggest!
 
 📧 Contact: Hamza.Dev391@gmail.com
 
 📜 License
+
 This project is free to use under the MIT License.
